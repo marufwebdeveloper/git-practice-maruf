@@ -1,9 +1,16 @@
 # Git Practice Project
 
-## Name
-Md Maruf Hossain
+## 👤 Student
+**Name:** Your Full Name
 
-## About
-This project is created to practice Git and GitHub.
+## 📌 About
+This project demonstrates fundamental Git and GitHub operations.
 
-It demonstrates repository creation, commits, branches, merging, and pushing code to GitHub.
+## 🧮 Features
+- Addition
+- Subtraction
+
+## 🛠️ Technologies
+- Python
+- Git
+- GitHub
