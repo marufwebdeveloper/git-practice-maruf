@@ -2,4 +2,19 @@
 
 This project is a practical exercise for learning Git and GitHub.
 
-The project demonstrates how to create a repository, make commits, create branches, merge branches, and push changes to GitHub.
+## Features
+
+The calculator currently supports:
+
+- Addition
+- Subtraction
+- Multiplication
+
+## Git Concepts Practiced
+
+- Git repository initialization
+- Commits
+- Branches
+- Merging
+- Remote repositories
+- Pushing to GitHub
